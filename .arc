@@ -8,7 +8,6 @@ get /api/cats/:catID
 post /api/cats
 patch /api/cats/:catID
 delete /api/cats/:catID
-get /todos/:todoID
 
 @tables
 data
