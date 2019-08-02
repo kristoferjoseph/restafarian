@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-todos-000todoID",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
